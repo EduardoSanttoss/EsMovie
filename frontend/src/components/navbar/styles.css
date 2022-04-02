@@ -1,0 +1,29 @@
+header{
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.esmovie-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.esmovie-nav-content h1{ 
+    margin: 0px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.esmovie-contact-container{
+    display: flex;
+    align-items: center;
+}
+
+.esmovie-contact-link{
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
