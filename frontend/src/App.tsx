@@ -10,7 +10,7 @@ import Navbar from "components/navbar";
 function App() {
   return (
     <BrowserRouter>
-      <Navbar /> 
+      <Navbar />
       <Routes>
         <Route path="/" element={<Listing />} />
         <Route path="/form">
